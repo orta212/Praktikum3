@@ -136,3 +136,36 @@ Hasil Penggabungan 5 & 2 = 25
 Hasil penjumlahan 5 + 2 = 7
 Hasil pembagian 5 / 2 = 0
 ```
+# Latihan 3
+* buat kode <br>
+![SC latihan3](https://user-images.githubusercontent.com/47426095/198815446-deadbac8-b4c3-46c4-8073-bdcf003872e8.PNG)
+<br>
+```python
+h = 5
+print("Hello ini script python \n\n")
+
+for x in range(h):
+    print(" " * (h - x), "*" * (2*x + 1))
+for x in range(h - 2, -1, -1):
+    print(" " * (h - x), "*" * (2*x + 1))
+```
+* lakukan run file
+* Hasil Output : <br>
+![run latihan3](https://user-images.githubusercontent.com/47426095/198815514-f20acf7e-5e0b-4fcd-a399-d1b6c138a021.PNG)
+<br>
+```
+Hello ini script python 
+
+
+      *
+     ***
+    *****
+   *******
+  *********
+   *******
+    *****
+     ***
+      *
+```
+* Flowchart : <br>
+![Map latihan3](https://user-images.githubusercontent.com/47426095/198815566-ce5e09e8-ca92-4121-9111-23b7637f9715.png)
