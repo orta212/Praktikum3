@@ -102,6 +102,7 @@ Z
 * buat kode <br>
 ![SC latihan2](https://user-images.githubusercontent.com/47426095/198815274-cb1ce429-aad3-4646-979f-e659fc7c3af3.PNG)
 <br>
+
 ```python
 #input nilai variabel
 a = input("masukan nilai pertama: ")
@@ -125,6 +126,7 @@ print("Hasil pembagian {1} / {0} = %d".format(a,b) %(a/b))
 * hasil output :
 ![run latihan2](https://user-images.githubusercontent.com/47426095/198815344-e7835741-519d-4562-bdbc-7ffa4ac92592.PNG)
 <br>
+
 ```
 masukan nilai pertama: 2
 masukan nilai kedua: 5
