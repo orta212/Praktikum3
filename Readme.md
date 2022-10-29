@@ -95,3 +95,42 @@ Z
  10      10000000000
 
 ```
+<br><br>
+
+# Latihan 2 
+
+* buat kode <br>
+![SC latihan2](https://user-images.githubusercontent.com/47426095/198815274-cb1ce429-aad3-4646-979f-e659fc7c3af3.PNG)
+<br>
+```python
+#input nilai variabel
+a = input("masukan nilai pertama: ")
+b = input("masukan nilai kedua: ")
+
+#cetak nilai variabel
+print("variabel a = ", a)
+print("variabel b = ", b)
+print("Hasil Penggabungan {1} & {0} = %s".format(a,b) %(a+b))
+
+#konversi nilai variabel 
+a = int(a)
+b = int(b)
+
+
+print("Hasil penjumlahan {1} + {0} = %d".format(a,b) %(a+b))
+print("Hasil pembagian {1} / {0} = %d".format(a,b) %(a/b))
+```
+
+* lakukan run file
+* hasil output :
+![run latihan2](https://user-images.githubusercontent.com/47426095/198815344-e7835741-519d-4562-bdbc-7ffa4ac92592.PNG)
+<br>
+```
+masukan nilai pertama: 2
+masukan nilai kedua: 5
+variabel a =  2
+variabel b =  5
+Hasil Penggabungan 5 & 2 = 25
+Hasil penjumlahan 5 + 2 = 7
+Hasil pembagian 5 / 2 = 0
+```
