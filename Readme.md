@@ -59,7 +59,9 @@ print('{0:3} {1:>16}'.format(10, 10**10))
 * Hasil Output : <br>
 ![run latihan1](https://user-images.githubusercontent.com/47426095/198815125-3cfb5640-7129-460c-a8a2-99435eb5272a.PNG)
 <br>
+
 ```
+
 A B C 
 X
 Y
@@ -91,4 +93,5 @@ Z
   8        100000000
   9       1000000000
  10      10000000000
- ```
+
+```
